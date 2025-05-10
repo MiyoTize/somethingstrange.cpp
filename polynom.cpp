@@ -1,3 +1,6 @@
+
+// THIS PROGRAMM NOT MY, ONLY AN EXAMPLE
+
 #include <iostream>
 #include <cstdlib>
 
